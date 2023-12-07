@@ -1,0 +1,8 @@
+setup(
+    name='fixedincome',
+    version='0.1',
+    packages=find_packages(),
+    install_requires=[
+        'your-dependency>=1.0',
+    ],
+)
